@@ -24,7 +24,7 @@ email: pdx.police.transparency@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Calendar to inform the community of all publicly accessible
   police transparency events in Portland, Oregon.
-baseurl: "/calendar" # the subpath of your site, e.g. /blog
+baseurl: "/pdx-police-transparency-calendar" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
 show_read_more_link: true
