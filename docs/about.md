@@ -37,3 +37,4 @@ Pull events for The following entities:
 * City Council
 * US DOJ status conferences and other events
 * PPB annual reports
+* [Local Public Safety Coordinating Council (LPSCC)](https://www.multco.us/lpscc/2022-lpscc-executive-committee-meetings)
