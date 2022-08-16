@@ -37,4 +37,5 @@ Pull events for The following entities:
 * City Council
 * US DOJ status conferences and other events
 * PPB annual reports
+* [Oregon DPSST events](https://www.oregon.gov/transparency/Pages/Public-Meetings.aspx) - search for DPSST; sort by start date and time
 * [Local Public Safety Coordinating Council (LPSCC)](https://www.multco.us/lpscc/2022-lpscc-executive-committee-meetings)
