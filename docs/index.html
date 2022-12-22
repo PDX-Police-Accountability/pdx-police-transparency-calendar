@@ -8,10 +8,19 @@ custom-javascript-list:
   - "assets/fullcalendar/lib/main.js"
 custom-css-list:
   - "assets/fullcalendar/lib/main.css"
+  - "assets/fullcalendar-overrides.css"
 ---
 <div id="calendar"></div>
 
 <script>
+  // Remove any surrounding HTML from Google Event description. This should
+  // leave just a URL to the event on some other site.
+  function extractUrl(s) {
+    var span = document.createElement('span');
+    span.innerHTML = s;
+    return span.textContent || span.innerText;
+  };
+
   document.addEventListener('DOMContentLoaded', function() {
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
@@ -22,11 +31,9 @@ custom-css-list:
       },
 
       eventDidMount: function(arg) {
-        //$(arg.el).popup({
-        //  html: '<div class="ui top label grey attached"><strong>Pop Up</strong></div><br>'+arg.event.extendedProps.description
-        //});
-        console.log(arg.event.extendedProps.description);
-        arg.event.setProp('url', arg.event.extendedProps.description);
+        var eventUrl = extractUrl(arg.event.extendedProps.description);
+        // console.log(eventUrl);
+        arg.event.setProp('url', eventUrl);
       },
 
       eventColor: 'orange'
