@@ -20,19 +20,16 @@ Events are currently pulled manually for the following entities:
 
 The following entities do not yet have a publicly accessible list of events:
 
-* [African American Advisory Council](https://www.portland.gov/police/african-american-advisory-council)
-* [Muslim Advisory Council](https://www.portland.gov/police/muslim-advisory-council)
+* [African American Advisory Council](https://www.portland.gov/police/african-american-advisory-council/african-american-advisory-council)
+* [Muslim Advisory Council](https://www.portland.gov/police/muslim-advisory-council/muslim-advisory-council)
+* [Slavic Advisory Council](https://www.portland.gov/police/slavic-advisory-council)
+* [The Latino Advisory Council](https://www.portland.gov/police/latino-advisory-council)
+* [Coalition of Advisory Groups (CAG)](https://www.portland.gov/police/cag)
 
-TODO:
-
-Pull events for The following entities:
+TODO - Consider pulling events for the following:
 
 * Precinct Advisory Councils (Central, East and North)
 * Budget Advisory Committee
-* Police Equity Advisory Council
-* Slavic Advisory Council
-* The Latino Advisory Council
-* Advisory Groups (CAG)
 * Alliance for Safer Communities
 * City Council
 * US DOJ status conferences and other events
