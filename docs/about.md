@@ -15,7 +15,7 @@ Events are currently pulled manually for the following entities:
 * [Citizen Review Committee (CRC)](https://www.portland.gov/ipr/crc/events)
 * [Behavioral Health Unit Advisory Committee (BHUAC)](https://www.portland.gov/police/bhu-advisory/events)
 * [Asian Pacific Islander American Advisory Council (APIAAC)](https://www.portland.gov/police/apiaac/events)
-* [Police Bureauwide Advisory Committee (PBAC)](https://www.portland.gov/police/pbac/events)
+* [Police Bureauwide Advisory Committee (PBAC)](https://www.portland.gov/pbac/events)
 * [Police Equity Advisory Council (PEAC)](https://www.portland.gov/police/police-equity-advisory-council/events)
 
 The following entities do not yet have a publicly accessible list of events:
