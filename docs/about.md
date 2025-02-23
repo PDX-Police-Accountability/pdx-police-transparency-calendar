@@ -12,9 +12,9 @@ Events are currently pulled manually for the following entities:
 * [Behavioral Health Unit Advisory Committee (BHUAC)](https://www.portland.gov/police/bhu-advisory/events)
 * [Citizen Review Committee (CRC)](https://www.portland.gov/ipr/crc/events)
 * [Commission on Statewide Law Enforcement Standards of Conduct and Discipline (LESC)](https://justice.oregon.gov/lesc/)
+* [Fire and Police Disability and Retirement(FPDR)](https://www.portland.gov/fpdr/events)
 * [Focused Intervention Team Community Oversight Group (FIT/COG)](https://www.portland.gov/fitcog/events)
 * [Local Public Safety Coordinating Council (LPSCC)](https://multco.us/info/2025-lpscc-council-meetings)
-* [Police Bureauwide Advisory Committee (PBAC)](https://www.portland.gov/pbac/events)
 * [Police Equity Advisory Council (PEAC)](https://www.portland.gov/police/police-equity-advisory-council/events)
 * [Portland Committee on Community-Engaged Policing (PCCEP)](https://www.portland.gov/pccep/events)
 * [Training Advisory Council (TAC)](https://www.portland.gov/police/tac/events)
@@ -30,6 +30,7 @@ The following entities do not yet have a publicly accessible list of events:
 Events used to be pulled for:
 
 * [Police Accountability Commission (PAC) - their work was completed in 2023](https://www.portland.gov/police-accountability/events)
+* [Police Bureauwide Advisory Committee (PBAC) - disbanded in Feb. 2025](https://www.portland.gov/pbac/events)
 
 TODO - Consider pulling events for the following:
 
